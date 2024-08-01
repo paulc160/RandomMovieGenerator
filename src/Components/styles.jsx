@@ -1,0 +1,1 @@
+export const TEXT_STYLE = "p-2 mx-auto mb-2 text-xl font-extrabold leading-none tracking-tight text-black md:text-xl lg:text-1xl dark:text-grey"
